@@ -17,3 +17,8 @@ home directory by entering the command `cd ~` this will take you to
 `/home/your user name` or `/root` if your the root account. now that your in the
 home directory enter the list command `ls` to see what files you have. if you
 want to see what is in the file enter the command `cat fileNameHere`
+
+now try to do the following
+  1. list the files in `/etc`
+  2. list the files in `/root`
+  3. list all the files in your home directory
