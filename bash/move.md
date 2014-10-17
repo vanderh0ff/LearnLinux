@@ -5,7 +5,7 @@ how to move around in Linux
 ---------|---------------|--------------|--------------
 cd | change directory | moves you from one folder to an other | cd /home/username
 ls | list content | shows files and folders in the directory | ls
-cp | copy | copys a file or folder from one place to another | cp originalfile newfile
+cp | copy | copies a file or folder from one place to another | cp originalfile newfile
 mv | move | moves a file from one place to another | mv originalfile ~/.
 cat| concatenate | reads all the contents of a file | cat myfile
 
