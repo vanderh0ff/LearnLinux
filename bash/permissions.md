@@ -7,7 +7,7 @@ chattr | change attributes | edits the attributes of a file | chattr +i filename
 
 chmod is used to edit the permissions on a file, there are 3 permissions and 3
 groups, for a total of 9 permissions. the permissions are read, witch allows the
-person to read the file, write, which allows the group to edit the file, and
+group to read the file, write, which allows the group to edit the file, and
 execute, witch allows the group to run the file as a program.
 
 character |group name | who it apples to
@@ -28,3 +28,5 @@ letter |number| binary | permission
 r      |4     |100     |read
 w      |2     |010     |write
 x      |1     |001     |exacute
+
+so `chmod a+rwx filename` is the same as `chmod 777 filename`

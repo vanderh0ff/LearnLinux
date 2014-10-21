@@ -22,3 +22,7 @@ now try to do the following
   1. list the files in `/etc`
   2. list the files in `/root`
   3. list all the files in your home directory
+
+to test your knowledge move in to the file system move in to the
+`move_excersizes` directory and cat the file in the directory for more
+instructions
