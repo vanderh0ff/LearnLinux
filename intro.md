@@ -43,7 +43,7 @@ much.
     - static ip/dhcp
   - firewalls
     - intro to iptables
-    - iptables is hard, had a wrapper.
+    - iptables is hard, have a wrapper.
     - you want ssh access?, allow some ports.
   - dns
     - 8.8.8.8 google's main service to it professionals
