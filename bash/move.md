@@ -1,13 +1,13 @@
 how to move around in Linux
 ===========================
 
-|command | what it means | what it does | how to use it
----------|---------------|--------------|--------------
-cd | change directory | moves you from one folder to an other | cd /home/username
-ls | list content | shows files and folders in the directory | ls
-cp | copy | copies a file or folder from one place to another | cp originalfile newfile
-mv | move | moves a file from one place to another | mv originalfile ~/.
-cat| concatenate | reads all the contents of a file | cat myfile
+command  | what it means    | what it does                                    | how to use it
+---------|------------------|-------------------------------------------------|--------------
+cd       | change directory |moves you from one folder to an other            | cd /home/username
+ls       | list content     |shows files and folders in the directory         | ls
+cp       | copy             |copies a file or folder from one place to another| cp originalfile newfile
+mv       | move             |moves a file from one place to another           | mv originalfile ~/.
+cat      | concatenate      |reads all the contents of a file                 | cat myfile
 
 these are some basic commands that you will use regularly they allow you to look
 and move around the file system on your computer.
@@ -22,3 +22,7 @@ now try to do the following
   1. list the files in `/etc`
   2. list the files in `/root`
   3. list all the files in your home directory
+
+to test your knowledge move in to the file system move in to the
+`move_excersizes` directory and cat the file in the directory for more
+instructions

@@ -4,13 +4,16 @@ Introduction
 many courses start with a bit of history on the subject, however I find that it
 is the first bit of information to be skipped over and sets a precident of being
 full of fluff that doesn't help you learn, so we are going straight in to Linux.
-no history.
+no history. any thing you see in a box like this `ls` is code that you can run
+in your terminal.
 
 for this class you will need a Linux distro of your choice. I'm not specifying
 one because you are learning Linux not Ubuntu,Fedora,RHEL,...,etc so use
 whatever you want. I recommend that you do these exercises in a virtual machine
 as you can save and revert changes in them easily, and you will be breaking the
-operating system in this course.
+operating system in this course. there will be big red WATCH OUT AND TAKE A
+SNAP SHOT BEFORE DOING THIS letters so you know when your are getting in to the
+'fun' stuff.
 
 the course will try to teach you the following enough that you can use them,
 you will not master these things, as I am not a master and can only teach so
@@ -43,7 +46,7 @@ much.
     - static ip/dhcp
   - firewalls
     - intro to iptables
-    - iptables is hard, had a wrapper.
+    - iptables is hard, have a wrapper.
     - you want ssh access?, allow some ports.
   - dns
     - 8.8.8.8 google's main service to it professionals
