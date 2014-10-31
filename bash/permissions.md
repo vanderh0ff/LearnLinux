@@ -12,10 +12,10 @@ groups, for a total of 9 permissions. The permissions are:
   *  execute  - allows the group to run the file as a program
 
 
-character |group name | who it apples to
+character |group name | who it applies to
 ----------|-----------|-----------
 u         |  user     | the owner of the file
-g         |  group    | users who are members of the files group
+g         |  group    | users who are members of the files' group
 o         |  others   | users not included in u or g
 a         |  all      | u, g and o
 
