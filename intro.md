@@ -34,7 +34,7 @@ much.
   - a walk through /bin
   - a walk through /usr
   - what is file linking
-- intro to the Linux way of thinking
+- The Linux Philosophy
   - everything is a file
   - pipes
   - programs that do one thing and do it well
