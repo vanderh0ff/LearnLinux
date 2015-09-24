@@ -49,4 +49,4 @@ much.
     - iptables is hard, have a wrapper.
     - you want ssh access?, allow some ports.
   - dns
-    - 8.8.8.8 google's main service to it professionals
+    - 8.8.8.8 google's main service to IT professionals
