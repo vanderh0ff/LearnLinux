@@ -1,8 +1,8 @@
 Permissions and attributes
 ==========================
-command|what it means| what it does|how to use it
--------|-------------|-------------|-------------
-chmod  | change modifiers| edits the permissions of a file| chmod +x filename
+command|   what it means   |          what it does          |how to use it
+-------|-------------------|--------------------------------|-------------
+chmod  | change modifiers  | edits the permissions of a file| chmod +x filename
 chattr | change attributes | edits the attributes of a file | chattr +i filename
 
 `chmod` is used to edit the permissions on a file. There are 3 permissions and 3
@@ -10,6 +10,22 @@ groups, for a total of 9 permissions. The permissions are:
   *  read     - allows the group to read the file
   *  write    - allows the group to edit the file
   *  execute  - allows the group to run the file as a program
+
+for example when using `ls -la` you see all of the files permissions
+
+```
+user
+ |   group
+ |  /   
+ |  |  others
+ |  |  |
+-rw-r--r-- 1 username groupname  264 Sep 24 19:08 more instructions.md
+```
+
+so this file the owner has rw, the group has r and everyone has r
+
+## to make a file executable for all users you would run the following command
+`chmod a+x filename` 
 
 
 character |group name | who it applies to
