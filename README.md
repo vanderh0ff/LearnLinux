@@ -8,4 +8,5 @@ information with a bit of humor thrown in. think good eats with Alton Brown, but
 for Linux instead of cooking.
 
 for parents, if your using this course to teach your kids Linux make sure you have a
-long talk with them about not staying up for days trying to compile a kernel[http://xkcd.com/456/]
+long talk with them about not staying up for days trying to compile a kernel
+![talk to your kids about linux](http://imgs.xkcd.com/comics/cautionary.png)
