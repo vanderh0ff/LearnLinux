@@ -9,7 +9,7 @@ in your terminal.
 
 for this class you will need a Linux distro of your choice. I'm not specifying
 one because you are learning Linux not Ubuntu,Fedora,RHEL,...,etc so use
-whatever you want. I recommend that you do these exercises in a virtual machine
+whatever you want. I recommend that you do these exercises in a virtual machine, we recommend virtual box,
 as you can save and revert changes in them easily, and you will be breaking the
 operating system in this course. there will be big **WATCH OUT AND TAKE A
 SNAP SHOT BEFORE DOING THIS** letters so you know when your are getting in to the
