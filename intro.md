@@ -9,7 +9,8 @@ in your terminal.
 
 for this class you will need a Linux distro of your choice. I'm not specifying
 one because you are learning Linux not Ubuntu,Fedora,RHEL,...,etc so use
-whatever you want. I recommend that you do these exercises in a virtual machine, we recommend virtual box,
+whatever you want. I recommend that you do these exercises in a virtual machine, 
+we recommend virtual box (download: https://www.virtualbox.org/wiki/Downloads )
 as you can save and revert changes in them easily, and you will be breaking the
 operating system in this course. there will be big **WATCH OUT AND TAKE A
 SNAP SHOT BEFORE DOING THIS** letters so you know when your are getting in to the
@@ -19,13 +20,15 @@ the course will try to teach you the following enough that you can use them,
 you will not master these things, as I am not a master and can only teach so
 much.
 
+##Table of Contents
+
 - intro to bash
-  - how to move around the system
-  - how to find what your looking for
-  - how to read and edit permissions
-  - how to run a program
+  - []how to move around the system](1_move.md)
+  - [how to find what your looking for](2_find.md)
+  - [how to read and edit permissions](3_permissions.md)
+  - [how to run a program](4_running_programs.md)
 - intro to the Linux file system
-  - the basics of the root directory
+  - [the basics of the root directory](1_theRootDir.md)
   - the basics of your home directory
   - how to mount and unmount drives
   - dotfiles and why you love them
@@ -35,7 +38,7 @@ much.
   - a walk through /usr
   - what is file linking
 - The Linux Philosophy
-  - everything is a file
+  - [everything is a file](1_everythingIsAFile.md)
   - pipes
   - programs that do one thing and do it well
   - automation
