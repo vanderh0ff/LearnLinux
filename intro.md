@@ -23,7 +23,7 @@ much.
 ##Table of Contents
 
 - intro to bash
-  - []how to move around the system](1_move.md)
+  - [how to move around the system](1_move.md)
   - [how to find what your looking for](2_find.md)
   - [how to read and edit permissions](3_permissions.md)
   - [how to run a program](4_running_programs.md)
