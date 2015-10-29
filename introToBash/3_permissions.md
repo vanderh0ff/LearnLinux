@@ -50,4 +50,4 @@ x      |1     |001     |execute
 
 So `chmod a+rwx filename` is the same as `chmod 777 filename`
 
-[how to run a program](4_running_programs.md)
+[how to run a program](introToBash/4_running_programs.md)

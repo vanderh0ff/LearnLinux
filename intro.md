@@ -23,12 +23,12 @@ much.
 ##Table of Contents
 
 - intro to bash
-  - [how to move around the system](1_move.md)
-  - [how to find what your looking for](2_find.md)
-  - [how to read and edit permissions](3_permissions.md)
-  - [how to run a program](4_running_programs.md)
+  - [how to move around the system](introToBash/1_move.md)
+  - [how to find what your looking for](introToBash/2_find.md)
+  - [how to read and edit permissions](introToBash/3_permissions.md)
+  - [how to run a program](introToBash/4_running_programs.md)
 - intro to the Linux file system
-  - [the basics of the root directory](1_theRootDir.md)
+  - [the basics of the root directory](theLinuxFileSystem/1_theRootDir.md)
   - the basics of your home directory
   - how to mount and unmount drives
   - dotfiles and why you love them
@@ -38,7 +38,7 @@ much.
   - a walk through /usr
   - what is file linking
 - The Linux Philosophy
-  - [everything is a file](1_everythingIsAFile.md)
+  - [everything is a file](theLinuxPhilosophy/1_everythingIsAFile.md)
   - pipes
   - programs that do one thing and do it well
   - automation
