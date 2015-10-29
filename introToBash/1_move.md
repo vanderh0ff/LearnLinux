@@ -27,4 +27,4 @@ To test your knowledge, move in to the file system move in to the
 `move_excersizes` directory and `cat` the file in the directory for more
 instructions.
 
-[how to find what your looking for](introToBash/2_find.md)
+[how to find what your looking for](2_find.md)
