@@ -7,3 +7,5 @@ group that applies to you. You are actually running programs when you type `ls` 
 `cat`, but you don't need the `./` for them as they are in your path. The "path" is
 the list of folders that the terminal will search through to find a matching
 program. Common path directories are /bin, /usr/bin, /usr/share/bin
+
+[the basics of the root directory](1_theRootDir.md)
