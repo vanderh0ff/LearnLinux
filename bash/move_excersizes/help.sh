@@ -5,6 +5,6 @@ read HELP
 case $HELP in 
     [yY]) echo "you have to escape space's with a backslash \\ ";
         echo "or try using tab completeion";;
-    [nN]) echo "google is your firend ";;
+    [nN]) echo "google is your friend ";;
 esac
 
