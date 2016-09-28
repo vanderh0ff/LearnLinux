@@ -50,3 +50,4 @@ much.
     - you want ssh access?, allow some ports.
   - dns
     - 8.8.8.8 google's main service to IT professionals
+      -And their secondary service 8.8.4.4
