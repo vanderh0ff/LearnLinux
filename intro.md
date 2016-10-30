@@ -27,6 +27,7 @@ much.
   - [how to find what your looking for](introToBash/2_find.md)
   - [how to read and edit permissions](introToBash/3_permissions.md)
   - [how to run a program](introToBash/4_running_programs.md)
+  - [how to create a file](introToBash/5_create_files.md)
 - intro to the Linux file system
   - [the basics of the root directory](theLinuxFileSystem/1_theRootDir.md)
   - the basics of your home directory
