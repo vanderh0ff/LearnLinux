@@ -29,7 +29,7 @@ much.
   - [how to run a program](introToBash/4_running_programs.md)
 - intro to the Linux file system
   - [the basics of the root directory](theLinuxFileSystem/1_theRootDir.md)
-  - the basics of your home directory
+  - [the basics of your home directory](theLinuxFileSystem/2_theHomeDir.md)
   - how to mount and unmount drives
   - dotfiles and why you love them
   - a walk through /etc
